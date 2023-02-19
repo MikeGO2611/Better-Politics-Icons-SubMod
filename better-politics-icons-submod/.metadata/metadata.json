@@ -1,0 +1,16 @@
+{
+  "name" : "Better Politics Icons SubMod ",
+  "id" : "",
+  "image" : "thumbnail.png",
+  "version" : "0.1",
+  "supported_game_version" : "1.*",
+  "short_description" : "Rework of IG icons for the Better Politics Mod.",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true,
+    "replace_paths" : [
+      "gfx/interface/icons/ig_icons"
+    ]
+  }
+}
